@@ -80,7 +80,7 @@ Contributors of this project are not responsible for what happens next.
 sudo apt-get update
 sudo apt-get install unzip libtool curl cmake gperf gawk flex bison nano \
 git python-docutils gettext automake autopoint texinfo build-essential \
-pkg-config zlib1g-dev libgmp3-dev libmpc-dev libmpfr-dev libncurses5-dev libltdl-dev
+pkg-config zlib1g-dev libgmp3-dev libmpc-dev libmpfr-dev libncurses5-dev libltdl-dev wget sudo
 ```
 * 克隆源码
 ```shell
